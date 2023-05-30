@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thehashhobo
 - 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning the process of andriod app devlopment 
 - 📫 Email: Jerryja2015@gmail.com
 
 
